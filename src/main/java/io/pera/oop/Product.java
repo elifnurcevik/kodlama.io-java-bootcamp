@@ -2,9 +2,10 @@ package io.pera.oop;
 
 public class Product {
 
-    public Product(){}
+    public Product() {
+    }
 
-    public Product(int id, String name, double unitPrice, String detail){
+    public Product(int id, String name, double unitPrice, String detail) {
         this.id = id;
         this.name = name;
         this.unitPrice = unitPrice;
@@ -16,4 +17,5 @@ public class Product {
     String name;
     double unitPrice;
     String detail;
+
 }
