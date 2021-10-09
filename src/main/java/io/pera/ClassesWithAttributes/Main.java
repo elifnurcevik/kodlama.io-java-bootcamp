@@ -15,3 +15,10 @@ public class Main {
     }
 
 }
+
+// OUTPUT
+/*
+
+Product added: Laptop
+
+ */
